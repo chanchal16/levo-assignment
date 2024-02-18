@@ -5,7 +5,7 @@ export default {
     colors: {
       cream: "#fffaf0",
       brown: "#a52a2a",
-      blue: "#7d94b5",
+      blue: "#4a78ba",
       black: "#2d2d2d",
     },
     extend: {},
