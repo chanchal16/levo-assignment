@@ -5,7 +5,7 @@ const Skeleton = () => {
       {[1, 1, 1, 1, 1, 1, 1, 1, 1].map((index) => (
         <div
           key={index}
-          className="flex flex-col px-4 py-5 h-96 justify-between"
+          className="flex flex-col px-4 py-5 max-h-72 justify-between"
         >
           <div className="flex flex-col gap-3">
             <span className={`w-1/5 h-4 ${skeletonClass}`}></span>
